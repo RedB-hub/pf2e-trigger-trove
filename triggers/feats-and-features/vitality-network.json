@@ -20,6 +20,9 @@
         {
             "id": "nGz2d4bYQ5nnKhI3",
             "inputs": {
+                "pf2e": {
+                    "value": "Compendium.sf2e-anachronism.actions.Item.UeMHbnnaXDa3sGfG"
+                },
                 "sf2e": {
                     "value": "Compendium.sf2e.actions.Item.UeMHbnnaXDa3sGfG"
                 },
@@ -371,6 +374,9 @@
         {
             "id": "Bm7X3gN6b5LL7Ctn",
             "inputs": {
+                "pf2e": {
+                    "value": "Compendium.sf2e-anachronism.actions.Item.UeMHbnnaXDa3sGfG"
+                },
                 "sf2e": {
                     "value": "Compendium.sf2e.actions.Item.UeMHbnnaXDa3sGfG"
                 },
@@ -498,6 +504,9 @@
         {
             "id": "EtzpNRjbv2m3k0Rq",
             "inputs": {
+                "pf2e": {
+                    "value": "Compendium.sf2e-anachronism.feats.Item.WLXWLYl4J8IIKpZh"
+                },
                 "sf2e": {
                     "value": "Compendium.sf2e.feats.Item.WLXWLYl4J8IIKpZh"
                 },

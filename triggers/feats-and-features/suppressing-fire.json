@@ -26,6 +26,9 @@
         {
             "id": "c0xpv2mtP6SVsUzq",
             "inputs": {
+                "pf2e": {
+                    "value": "Compendium.sf2e-anachronism.class-features.Item.cJ8j2FKJxmL8HZG2"
+                },
                 "sf2e": {
                     "value": "Compendium.sf2e.class-features.Item.cJ8j2FKJxmL8HZG2"
                 },
@@ -45,43 +48,6 @@
             "type": "has-item"
         },
         {
-            "id": "J1mTfpNXrRKUTMGO",
-            "inputs": {
-                "a": {
-                    "value": "failure"
-                },
-                "b": {
-                    "connection": "ZblPq2aKos2QnA3b:outputs:entry"
-                },
-                "compare": {
-                    "value": "gte"
-                }
-            },
-            "outs": {
-                "true": {
-                    "connection": "9OYOKxJu3XLIeeW2:ins:in"
-                }
-            },
-            "position": {
-                "x": 1408.923076923077,
-                "y": 396.5
-            },
-            "type": "compare-outcomes"
-        },
-        {
-            "id": "ZblPq2aKos2QnA3b",
-            "inputs": {
-                "entry": {
-                    "connection": "EWQj9DktAFeRubRy:outputs:outcome"
-                }
-            },
-            "position": {
-                "x": 1278,
-                "y": 528.75
-            },
-            "type": "__variable_getter__"
-        },
-        {
             "id": "Y7gEyLkDrqxAXbQf",
             "inputs": {
                 "entry": {
@@ -89,8 +55,8 @@
                 }
             },
             "position": {
-                "x": 1568,
-                "y": 542.75
+                "x": 1736.75,
+                "y": 341.5
             },
             "type": "__variable_getter__"
         },
@@ -113,9 +79,6 @@
                 "name": {
                     "value": "Effect: Suppressing Fire"
                 },
-                "origin": {
-                    "connection": "EWQj9DktAFeRubRy:outputs:target"
-                },
                 "sf2eImg": {
                     "value": "systems/sf2e/icons/abilities/red-bullets-in-flight.webp"
                 },
@@ -127,8 +90,8 @@
                 }
             },
             "position": {
-                "x": 1728,
-                "y": 459
+                "x": 2003,
+                "y": 346.5
             },
             "type": "create-effect"
         },
@@ -144,7 +107,7 @@
             },
             "outs": {
                 "true": {
-                    "connection": "J1mTfpNXrRKUTMGO:ins:in"
+                    "connection": "yMYb1batIJAfv3hI:ins:in"
                 }
             },
             "position": {
@@ -152,6 +115,61 @@
                 "y": 381
             },
             "type": "match-predicate"
+        },
+        {
+            "id": "yMYb1batIJAfv3hI",
+            "inputs": {
+                "input": {
+                    "connection": "EuAUlkTETN5PBzcV:outputs:entry"
+                }
+            },
+            "outs": {
+                "criticalFailure": {
+                    "connection": "9OYOKxJu3XLIeeW2:ins:in"
+                },
+                "failure": {
+                    "connection": "9OYOKxJu3XLIeeW2:ins:in"
+                },
+                "success": {
+                    "connection": "fQzS01SFNOUg58Au:ins:in"
+                }
+            },
+            "position": {
+                "x": 1393.9166666666667,
+                "y": 392.91666666666674
+            },
+            "type": "split-outcome"
+        },
+        {
+            "id": "EuAUlkTETN5PBzcV",
+            "inputs": {
+                "entry": {
+                    "connection": "EWQj9DktAFeRubRy:outputs:outcome"
+                }
+            },
+            "position": {
+                "x": 1245.1666666666667,
+                "y": 502.66666666666674
+            },
+            "type": "__variable_getter__"
+        },
+        {
+            "id": "fQzS01SFNOUg58Au",
+            "inputs": {
+                "sf2e": {
+                    "value": "Compendium.sf2e.class-features.Item.VDEYb7aAwAjBp8Av"
+                }
+            },
+            "outs": {
+                "true": {
+                    "connection": "9OYOKxJu3XLIeeW2:ins:in"
+                }
+            },
+            "position": {
+                "x": 1681.5897435897436,
+                "y": 499.56666666666683
+            },
+            "type": "has-item"
         }
     ],
     "priority": 0,
