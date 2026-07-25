@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.cmCLIMgtd4TLA23p"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.cmCLIMgtd4TLA23p"
+                },
                 "target": {
                     "connection": "XNskevqpP9XKlweC:outputs:combatant"
                 }
@@ -124,6 +127,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.7PjBANpMMoBxTYq3"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.7PjBANpMMoBxTYq3"
                 }
             },
             "position": {

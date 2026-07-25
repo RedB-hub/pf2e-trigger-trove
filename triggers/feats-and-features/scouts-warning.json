@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.Tpcq3Lk7qEOZ3LDP"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.Tpcq3Lk7qEOZ3LDP"
+                },
                 "target": {
                     "connection": "2tKhZoiC2oWDJtei:outputs:combatant"
                 }
@@ -184,6 +187,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.RxDDXK52lwyHXl7v"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.RxDDXK52lwyHXl7v"
                 },
                 "target": {
                     "connection": "14iLnP9qsIXJ4cnj:outputs:entry"

@@ -80,6 +80,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu"
                 },
+                "sf2e": {
+                    "value": "Compendium.sf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu"
+                },
                 "target": {
                     "connection": "piytUEB6IEI1ozfV:outputs:source"
                 }

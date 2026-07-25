@@ -44,6 +44,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.oYzkopbXguiwfNTx"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.oYzkopbXguiwfNTx"
+                },
                 "target": {
                     "connection": "jDi7PfhVYloOxbfN:outputs:entry"
                 }

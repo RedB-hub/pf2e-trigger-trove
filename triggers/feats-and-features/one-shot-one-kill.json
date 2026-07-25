@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.actions.Item.Tlrde2xh7AhesXNB"
+                },
                 "target": {
                     "connection": "W4oyOLPQW8sCgGR3:outputs:combatant"
                 }
@@ -81,6 +84,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.h1BznDjjZQfNKqou"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.h1BznDjjZQfNKqou"
                 },
                 "target": {
                     "connection": "aqlNu4VZZreBFYNb:outputs:origin"
@@ -153,6 +159,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.h1BznDjjZQfNKqou"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.h1BznDjjZQfNKqou"
                 },
                 "target": {
                     "connection": "W4oyOLPQW8sCgGR3:outputs:combatant"

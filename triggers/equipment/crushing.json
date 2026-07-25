@@ -81,6 +81,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.equipment-effects.Item.zNHvhwHsC8ckhKVp"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.equipment-effects.Item.zNHvhwHsC8ckhKVp"
+                },
                 "target": {
                     "connection": "Xj3M6rryVa0GLfKB:outputs:entry"
                 }
@@ -114,6 +117,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.equipment-effects.Item.czdEHtLsrUcZxSDx"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.equipment-effects.Item.czdEHtLsrUcZxSDx"
                 },
                 "target": {
                     "connection": "D7nSb7tnGMkQLtzX:outputs:entry"

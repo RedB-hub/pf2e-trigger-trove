@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.N4wCUZH2KG6FoGqh"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.N4wCUZH2KG6FoGqh"
+                },
                 "target": {
                     "connection": "ZeKDUIJWzlo0ZdW2:outputs:entry"
                 }
@@ -341,6 +344,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.u6Czd41XiuFK70J3"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.u6Czd41XiuFK70J3"
+                },
                 "target": {
                     "connection": "g0WBY7FHcF1mz82g:outputs:entry"
                 }
@@ -424,6 +430,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.u6Czd41XiuFK70J3"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.u6Czd41XiuFK70J3"
                 }
             },
             "position": {
@@ -450,6 +459,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.u6Czd41XiuFK70J3"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.u6Czd41XiuFK70J3"
                 },
                 "target": {
                     "connection": "2wc1iYSEZqr4YWsq:outputs:origin"

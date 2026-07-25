@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.NHheDmNB7L4REmlr"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.NHheDmNB7L4REmlr"
+                },
                 "target": {
                     "connection": "I5vqBH15VpLGTWo2:outputs:entry"
                 }
@@ -150,6 +153,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.NHheDmNB7L4REmlr"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.NHheDmNB7L4REmlr"
+                },
                 "target": {
                     "connection": "8jzqRiPJHCTkY8nL:outputs:combatant"
                 }
@@ -262,6 +268,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
                 },
                 "target": {
                     "connection": "aN9uHlmJYWEt3KKv:outputs:entry"

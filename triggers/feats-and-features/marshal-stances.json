@@ -186,6 +186,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.kyrvZfZfzKK1vx9b"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.kyrvZfZfzKK1vx9b"
+                },
                 "target": {
                     "connection": "YfvhTCAf5CDKSZdT:outputs:entry"
                 }
@@ -227,6 +230,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.kyrvZfZfzKK1vx9b"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.kyrvZfZfzKK1vx9b"
                 },
                 "target": {
                     "connection": "YfvhTCAf5CDKSZdT:outputs:entry"
@@ -404,6 +410,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.qX62wJzDYtNxDbFv"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.qX62wJzDYtNxDbFv"
+                },
                 "target": {
                     "connection": "pNxCaVoucTP3xsw7:outputs:entry"
                 }
@@ -509,6 +518,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.er5tvDNvpbcnlbHQ"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.er5tvDNvpbcnlbHQ"
                 },
                 "target": {
                     "connection": "MvKQFVj9L3ri8dE1:outputs:entry"
@@ -632,6 +644,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.z6oLNlBs724PCcR6"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.z6oLNlBs724PCcR6"
+                },
                 "target": {
                     "connection": "Gn3SlLGuB7QZBu2r:outputs:entry"
                 }
@@ -660,6 +675,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.z6oLNlBs724PCcR6"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.z6oLNlBs724PCcR6"
                 },
                 "target": {
                     "connection": "Gn3SlLGuB7QZBu2r:outputs:entry"

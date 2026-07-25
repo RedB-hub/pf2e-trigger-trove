@@ -68,6 +68,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spells-srd.Item.AspA30tzKCHFWRf0"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spells.Item.AspA30tzKCHFWRf0"
                 }
             },
             "position": {

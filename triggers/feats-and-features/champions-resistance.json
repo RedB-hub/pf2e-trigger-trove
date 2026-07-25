@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.DawVHfoPKbPJsz4k"
+                },
                 "target": {
                     "connection": "e5AEGHgEYhvuegPO:outputs:target"
                 }
@@ -61,6 +64,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.actions.Item.tuZnRWHixLArvaIf"
                 },
                 "target": {
                     "connection": "EZTatzbIcNSNAPV3:outputs:wluUAbMcMcCfQEvF"
@@ -112,6 +118,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.2c9awqDem5OLK47S"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.2c9awqDem5OLK47S"
                 },
                 "target": {
                     "connection": "oNFVwpE1bqRsZMcF:outputs:entry"

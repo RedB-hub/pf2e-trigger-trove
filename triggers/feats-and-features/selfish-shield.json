@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.h6nyMp4dtPXBfCJc"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.h6nyMp4dtPXBfCJc"
+                },
                 "target": {
                     "connection": "fqnz9j2xOvnf7n1U:outputs:target"
                 }
@@ -65,6 +68,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.2a6fuugiPpICe3Li"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.2a6fuugiPpICe3Li"
                 },
                 "target": {
                     "connection": "LPF5bhT0j83uY02b:outputs:entry"
@@ -125,6 +131,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.MRMW0EiuOO20pzG2"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.MRMW0EiuOO20pzG2"
+                },
                 "target": {
                     "connection": "fCKQkugnzfYnkhFL:outputs:entry"
                 }
@@ -161,6 +170,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.seOQfjfjrDyK6rCo"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.seOQfjfjrDyK6rCo"
                 },
                 "target": {
                     "connection": "fCKQkugnzfYnkhFL:outputs:entry"

@@ -44,6 +44,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.KGbXSyZzPE5i1O4N"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.KGbXSyZzPE5i1O4N"
+                },
                 "target": {
                     "connection": "t7dqN1EUtyp8vjwT:outputs:entry"
                 }
@@ -196,6 +199,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.tMv3au5iEzSGOWxN"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.tMv3au5iEzSGOWxN"
+                },
                 "target": {
                     "connection": "fVODmPlbNTwlJL98:outputs:entry"
                 }
@@ -276,6 +282,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spells-srd.Item.nnSipUPNd3sm5vYL"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spells.Item.nnSipUPNd3sm5vYL"
                 }
             },
             "position": {

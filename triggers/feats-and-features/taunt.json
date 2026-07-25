@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.FlyWq9znOHvpISNW"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.FlyWq9znOHvpISNW"
+                },
                 "target": {
                     "connection": "2lg0llkcuO7DsVwR:outputs:origin"
                 }

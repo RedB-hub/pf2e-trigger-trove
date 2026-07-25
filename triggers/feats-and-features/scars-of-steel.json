@@ -65,6 +65,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.z3uyCMBddrPK5umr"
+                },
                 "target": {
                     "connection": "YsdMrjPNcDrHKxBe:outputs:entry"
                 }
@@ -98,6 +101,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.j8ycCi7ghTtpRjEW"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.j8ycCi7ghTtpRjEW"
                 },
                 "target": {
                     "connection": "HLXfLAAbTxiQfBDX:outputs:entry"

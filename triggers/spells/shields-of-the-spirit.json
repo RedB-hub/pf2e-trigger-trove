@@ -50,6 +50,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.mlvDokpnQBhvQrSk"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.mlvDokpnQBhvQrSk"
+                },
                 "target": {
                     "connection": "grPBF7kGSTOdwSqL:outputs:entry"
                 }
@@ -102,6 +105,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.classfeatures.Item.ehL7mnkqxN5wIkgu"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.class-features.Item.ehL7mnkqxN5wIkgu"
                 },
                 "target": {
                     "connection": "6rZxKLUKqudo4ue9:outputs:YLcsqB558JEtNo0z"
@@ -169,6 +175,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spells-srd.Item.ZL97DcoJ8us6EwAF"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spells.Item.ZL97DcoJ8us6EwAF"
                 }
             },
             "position": {
@@ -182,6 +191,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.5AIV3cCLUt442Mmp"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.5AIV3cCLUt442Mmp"
                 },
                 "target": {
                     "connection": "T5x47gfESvyuKYhr:outputs:entry"

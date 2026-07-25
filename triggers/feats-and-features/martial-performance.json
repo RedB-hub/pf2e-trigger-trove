@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.q1iP3SjAF5uceI0M"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.q1iP3SjAF5uceI0M"
+                },
                 "target": {
                     "connection": "ZhMxyo4TUFQzKpRv:outputs:origin"
                 }
@@ -109,6 +112,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.beReeFroAx24hj83"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.beReeFroAx24hj83"
                 },
                 "target": {
                     "connection": "w6ioop2CGqB3zcfS:outputs:entry"
@@ -198,6 +204,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.DLwTvjjnqs2sNGuG"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.DLwTvjjnqs2sNGuG"
                 },
                 "target": {
                     "connection": "3GlpsP9ua5cjtq3W:outputs:entry"
@@ -326,6 +335,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.8adLKKzJy49USYJt"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.8adLKKzJy49USYJt"
                 },
                 "target": {
                     "connection": "B5HQY8ES2FOEZPSJ:outputs:entry"

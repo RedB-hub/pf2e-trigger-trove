@@ -27,6 +27,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
+                },
                 "target": {
                     "connection": "SdX9ewRq4eT0Q16O:outputs:entry"
                 }
@@ -45,6 +48,9 @@
                 },
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.paKKHPds77fq5VTH"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.paKKHPds77fq5VTH"
                 },
                 "target": {
                     "connection": "SdX9ewRq4eT0Q16O:outputs:entry"
@@ -145,6 +151,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
                 },
                 "target": {
                     "connection": "U2i6GXsykEs2iZ52:outputs:entry"
@@ -304,6 +313,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
+                },
                 "target": {
                     "connection": "bjpSo7hiaQuRMSIL:outputs:entry"
                 }
@@ -319,6 +331,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
                 },
                 "target": {
                     "connection": "lBSUEUAKAknvOqDB:outputs:entry"
@@ -379,6 +394,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.class-features.Item.LzYi0OuOoypNb6jd"
                 },
                 "target": {
                     "connection": "w9gawril0PECLdLm:outputs:roller"

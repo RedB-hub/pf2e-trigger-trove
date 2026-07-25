@@ -103,6 +103,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.8iHpUB0bYaHh86Kk"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.8iHpUB0bYaHh86Kk"
+                },
                 "target": {
                     "connection": "mgpBr0Pnyinna11t:outputs:q9ZqzN08bWrL2ibx"
                 }
@@ -124,6 +127,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.woKCbf1kXPrPjeZG"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.woKCbf1kXPrPjeZG"
+                },
                 "target": {
                     "connection": "yu1xlXV8zhCqRI6x:outputs:entry"
                 }
@@ -144,6 +150,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.p4SCBtIYPzVQ0gEd"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.p4SCBtIYPzVQ0gEd"
                 },
                 "target": {
                     "connection": "mMxbG1mSmpDetOdq:outputs:entry"

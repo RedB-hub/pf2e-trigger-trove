@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.actionspf2e.Item.TSDbyYRQwhIyY2Oq"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.actions.Item.TSDbyYRQwhIyY2Oq"
+                },
                 "target": {
                     "connection": "hzOy2jjab6aOgZr7:outputs:combatant"
                 }

@@ -44,6 +44,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e-trigger-trove.auxiliary-items.Item.0qQV2XvX2kaOt8yj"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-trigger-trove.sf2e-auxiliary-items.Item.0qQV2XvX2kaOt8yj"
+                },
                 "target": {
                     "connection": "EaDrElhQKHKvvBRo:outputs:entry"
                 }
@@ -243,6 +246,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spells-srd.Item.D4kArD91fFiREvC6"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spells.Item.D4kArD91fFiREvC6"
                 }
             },
             "position": {

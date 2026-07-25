@@ -244,6 +244,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2"
                 },
+                "sf2e": {
+                    "value": "Compendium.sf2e.conditions.Item.XgEqL1kFApUbl5Z2"
+                },
                 "target": {
                     "connection": "C7vvURmOYR3ZlxME:outputs:entry"
                 }

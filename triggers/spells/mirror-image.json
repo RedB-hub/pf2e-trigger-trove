@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.spell-effects.Item.0PO5mFRhh9HxGAtv"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spell-effects.Item.0PO5mFRhh9HxGAtv"
+                },
                 "target": {
                     "connection": "LJxG8nsNHbiHTMa9:outputs:target"
                 }

@@ -144,6 +144,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.spells-srd.Item.wjJW9hWY5CkkMvY5"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.spells.Item.wjJW9hWY5CkkMvY5"
                 }
             },
             "position": {

@@ -23,6 +23,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.BQrhDpLIp9zjbjEP"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.BQrhDpLIp9zjbjEP"
+                },
                 "target": {
                     "connection": "NMiT4L2WFZWXEewk:outputs:origin"
                 }
@@ -182,6 +185,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.vDJRIKS27md3LudA"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.vDJRIKS27md3LudA"
+                },
                 "target": {
                     "connection": "yBmKMB5zq8A0kPap:outputs:entry"
                 }
@@ -218,6 +224,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.vDJRIKS27md3LudA"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.vDJRIKS27md3LudA"
                 },
                 "target": {
                     "connection": "yBmKMB5zq8A0kPap:outputs:entry"
@@ -342,6 +351,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.vDJRIKS27md3LudA"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.vDJRIKS27md3LudA"
                 },
                 "target": {
                     "connection": "hGUBaXdntWCYsDj8:outputs:entry"

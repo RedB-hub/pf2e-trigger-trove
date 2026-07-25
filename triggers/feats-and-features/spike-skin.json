@@ -52,6 +52,9 @@
                 "pf2e": {
                     "value": "Compendium.pf2e.feat-effects.Item.pFEk5cwegWqXvX4D"
                 },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feat-effects.Item.pFEk5cwegWqXvX4D"
+                },
                 "target": {
                     "connection": "7tH42TwnZqLvj39I:outputs:target"
                 }
@@ -120,6 +123,9 @@
             "inputs": {
                 "pf2e": {
                     "value": "Compendium.pf2e.feats-srd.Item.9p28s0zg4Vv4r5i2"
+                },
+                "sf2e": {
+                    "value": "Compendium.pf2e-anachronism.feats.Item.9p28s0zg4Vv4r5i2"
                 },
                 "target": {
                     "connection": "3zI03U4YgJ5i6XSm:outputs:Q5NcuWOz6M23mMzo"
