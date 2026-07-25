@@ -1,5 +1,5 @@
 {
-    "description": "TRIGGERTROVE.MudPit.Trigger.Description",
+    "description": "@Localize[TRIGGERTROVE.MudPit.Trigger.Description]",
     "folder": "Spells",
     "id": "OCm2WTFmhJlXysXJ",
     "name": "Mud Pit",

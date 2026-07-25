@@ -1,5 +1,5 @@
 {
-    "description": "TRIGGERTROVE.EntanglingFlora.Trigger.Description",
+    "description": "@Localize[TRIGGERTROVE.EntanglingFlora.Trigger.Description]",
     "folder": "Spells",
     "id": "Jy6a9VpQSDaDKTLS",
     "name": "Entangling Flora",
