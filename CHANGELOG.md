@@ -1,3 +1,16 @@
+## 2.2.0
+- **Enhancements**
+  - Register SF2e triggers in pf2e when SF2e Anachronism is enabled (and viceversa)
+- **New Triggers**
+  - (valerijatoncinska) Add trigger for Ifrit's Wings of Flame ability
+  - (valerijatoncinska) Add Trigger for Nightmare's Smoke ability
+  - Add difficult terrain triggers for 500 Toads, Entangling Flora, and Mud Pit 
+- **Trigger Updates**
+  - Account for bombard in Suppressing Fire trigger
+  - Fix skipping of Treat Wounds immunity effect when origin has Continual Recovery
+- **Housekeeping**
+  - Update minimum Trigger Engine version to 1.22.0
+
 ## 2.1.0
 - **Housekeeping**
   - Update minimum Trigger Engine version to 1.7.0
