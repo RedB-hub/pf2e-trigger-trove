@@ -138,6 +138,11 @@
                 "Description": "When a creature that is <strong>Engulfed</strong> or <strong>Swallowed Whole</strong> ends their turn, roll that ability's damage."
             }
         },
+        "EntanglingFlora": {
+            "Trigger": {
+                "Description": "When the region for <strong>Engangling Flora</strong> is placed, add a difficult terrain Region Behavior to it."
+            }
+        },
         "ExtravagantParry": {
             "Trigger": {
                 "Description": "When an attack misses against a target benefiting from <strong>Extravagant Parry</strong>, that target gains panache until the end of their next turn."
@@ -153,9 +158,19 @@
                 "Description": "When the origin of an attack critically hits and their weapon has a <strong>fearsome</strong> or <strong>greater fearsome</strong> rune, add the frightened 1 or 2 condition to the target, respectively."
             }
         },
+        "FetidFumes": {
+            "Trigger": {
+                "Description": "<p>When a combatant starts their turn within—or enters—a <strong>Fetid Fumes</strong> aura, send that ability to chat. If the roller fails their saving throw against that ability, a condition effect for sickened 1 is added, and that roller can't trigger Fetid Fumes until this effect is removed.</p>"
+            }
+        },
         "FinishingFollowThrough": {
             "Trigger": {
                 "Description": "When a target is brought to 0 Hit Points by a finisher from an origin with <strong>Finishing Follow-Through</strong>, that origin gains panache."
+            }
+        },
+        "FiveHundredToads": {
+            "Trigger": {
+                "Description": "When the region for <strong>500 Toads</strong> is placed, add a difficult terrain Region Behavior to it."
             }
         },
         "FlameBarrier": {
@@ -244,6 +259,11 @@
         "MountainResilience": {
             "Trigger": {
                 "Description": "<p>When a target with <strong>Mountain Resilience</strong>'s effect takes bludgeoning, piercing, or slashing damage from an attack, reduce the duration of that effect by 1 minute.</p><p><em>Note: Due to a current limitation, this trigger will only work when the primary damage type is bludgeoning, piercing, or slashing. This covers most cases, but be aware that some instances of the previously mentioned damage types will be missed.</em></p>"
+            }
+        },
+        "MudPit": {
+            "Trigger": {
+                "Description": "When the region for <strong>Mud Pit</strong> is placed, add a difficult terrain Region Behavior to it."
             }
         },
         "Nettleskin": {
@@ -367,6 +387,11 @@
         "Slow": {
             "Trigger": {
                 "Description": "When a roller saves against the <strong>Slow</strong> spell, apply the slowed condition depending on their degree of success."
+            }
+        },
+        "Smoke": {
+            "Trigger": {
+                "Description": "<p>When a combatant starts their turn withing a <strong>Smoke</strong> aura, send that ability to chat. If a roller fails on their saving throw, increase their Sickened condition to 2. The roller is temporarily immune to the Smoke regardless of the outcome of the roll, add an effect tracking this immunity.</p>"
             }
         },
         "SpikeSkin": {
@@ -493,16 +518,6 @@
         "WarpingPull": {
             "Trigger": {
                 "Description": "When a target takes damage and they have <strong>Warping Pull</strong>'s resistance effect, remove that effect."
-            }
-        },
-        "FetidFumes": {
-            "Trigger": {
-                "Description": "<p>When a combatant starts their turn within—or enters—a <strong>Fetid Fumes</strong> aura, send that ability to chat. If the roller fails their saving throw against that ability, a condition effect for sickened 1 is added, and that roller can't trigger Fetid Fumes until this effect is removed.</p>"
-            }
-        },
-        "Smoke": {
-            "Trigger": {
-                "Description": "<p>When a combatant starts their turn withing a <strong>Smoke</strong> aura, send that ability to chat. If a roller fails on their saving throw, increase their Sickened condition to 2. The roller is temporarily immune to the Smoke regardless of the outcome of the roll, add an effect tracking this immunity.</p>"
             }
         },
         "WingsOfFlame": {
