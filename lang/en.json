@@ -534,6 +534,37 @@
             "Trigger": {
                 "Description": "<p>When <strong>Impressive Landing</strong> template is placed, adds difficult terrain to it.<br>When damage is taken from <strong>Impressive Landing</strong>, adds Off-guard effect for 1 round.</p>"
             }
+        },
+        "MagicalFetters": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Magical Fetters</strong> spell, apply an effect depending on their degree of success.</p>"
+            }
+        },
+        "Daze": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Magical Fetters</strong> spell, on critical failure apply stunned 1.</p>"
+            }
+        },
+        "CuttingInsult": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Cutting Insult</strong> spell, apply the frightened condition depending on their degree of success.</p>"
+            }
+        },
+        "InnerRadianceTorrent": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Inner Radiance Torrent</strong> spell, on critical failure apply blinded for 1 round.</p>"
+            }
+        },
+        "DistractingChatter": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Distracting Chatter</strong> spell, apply an effect depending on their degree of success.</p>",
+                "EffectDescription": "<p>You bombard a target with distracting auditory illusions, surrounding them with a tumultuous cacophony of overlapping speech, whispers, screams, and muttering. The target is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}, takes a -2 status penalty to purely auditory Perception checks, and must succeed at a @Check[flat|dc:5] to use auditory abilities or verbal spell components. Similarly, a creature who attempts to affect the target with an auditory effect must succeed at a @Check[flat|dc:5] or the attempt fails. The duration depends on the target's Will save.</p>"
+            }
+        },
+        "VampiricFeast": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Vampiric Feast</strong> spell, apply an effect to the target to track their hp.<br>When damage is taken from the <strong>Vampiric Feast</strong> spell, then create an effect that gives the caster temp hp equal to the difference between the target current hp and the hp store in the temp effect, finally delete the temp effect.</p>"
+            }
         }
     }
 }
