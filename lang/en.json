@@ -565,6 +565,18 @@
             "Trigger": {
                 "Description": "<p>When a roller saves against the <strong>Vampiric Feast</strong> spell, apply an effect to the target to track their hp.<br>When damage is taken from the <strong>Vampiric Feast</strong> spell, then create an effect that gives the caster temp hp equal to the difference between the target current hp and the hp store in the temp effect, finally delete the temp effect.</p>"
             }
+        },
+        "WhispersOfTheVoid": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Whispers of the Void</strong> spell, apply persistent damage, drained and dommed depending on their degree of success.</p>"
+            }
+        },
+        "VampiricMaiden": {
+            "Trigger": {
+                "Description": "<p>When a roller saves against the <strong>Vampiric Maiden</strong> spell, apply an effect to the target to track their hp and apply an imobilized effect depending on their degree of success.<br>When damage is taken from the <strong>Vampiric Maiden</strong> spell, then create an effect that gives the caster temp hp equal to the difference between the target current hp and the hp store in the temp effect, finally delete the temp effect.</p>",
+                "EffectDescriptionFail": "<p>The target is briefly trapped within the vampiric maiden. The target is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} by the iron maiden for 1 round or until it uses an Interact action to extricate itself, whichever comes first.</p>",
+                "EffectDescriptionCFail": "<p>The target is briefly trapped within the vampiric maiden. The target is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} by the vampiric maiden for 1 round or until it @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes} ([[/act escape dc=@spelldc]]), whichever comes first.</p>"
+            }
         }
     }
 }
