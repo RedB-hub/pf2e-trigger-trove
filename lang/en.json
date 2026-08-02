@@ -524,6 +524,16 @@
             "Trigger": {
                 "Description": "<p>When a combatant ends their turn within a <strong>Wings of Flame</strong> aura, send that ability to chat, roll the damage.</p>"
             }
+        },
+        "FuriousFinish": {
+            "Trigger": {
+                "Description": "<p>When <strong>Furious Finish</strong> Effect is removed, remove Rage effect, then add fatigued condition.</p>"
+            }
+        },
+        "ImpressiveLanding": {
+            "Trigger": {
+                "Description": "<p>When <strong>Impressive Landing</strong> template is placed, adds difficult terrain to it.<br>When damage is taken from <strong>Impressive Landing</strong>, adds Off-guard effect for 1 round.</p>"
+            }
         }
     }
 }
