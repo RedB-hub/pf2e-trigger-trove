@@ -512,7 +512,7 @@
         },
         "WarningStripes": {
             "Trigger": {
-                "Description": "<p>If the target of a successful melee unarmed attack has <strong>Warning Stripes</strong>'s auxiliary effect, roll the spell's damage.</p><p>For this trigger to work, <strong>Aux Effect: Warning Stripes</strong> must be dragged onto the origin when they cast the spell. Furthermore, it must be dragged from the spell's card in cht for its damage to scale correctly. You can find this auxiliary effect in the <strong>Auxiliary Items</strong> compendium under the Trigger Trove folder.</p>"
+                "Description": "<p>If the target of a successful melee unarmed attack has <strong>Warning Stripes</strong>'s auxiliary effect, roll the spell's damage.</p><p>For this trigger to work, <strong>Aux Effect: Warning Stripes</strong> must be dragged onto the origin when they cast the spell. Furthermore, it must be dragged from the spell's card in chat for its damage to scale correctly. You can find this auxiliary effect in the <strong>Auxiliary Items</strong> compendium under the Trigger Trove folder.</p>"
             }
         },
         "WarpingPull": {
